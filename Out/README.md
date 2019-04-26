@@ -1,0 +1,1 @@
+This folder will be used to generate output (e.g. a submission)
